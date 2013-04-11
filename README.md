@@ -1,7 +1,9 @@
 # Jenkins jobs on Panic StatusBoard
 This simple script will grab jenkins jobs and put them in HTML table, one that you can use as data source for your StatusBoard.
+By generating static html you will be able to use it even if your jenkins CI is only accesible from LAN network.
+Just use Dropbox or any other service(Apache) to expose output html file.
 
-It uses images from my server for all status types, they will be skinned today to match StatusBoard graphics style.
+It uses images from my server(http://merowing.info) for all status types, they will be skinned today to match StatusBoard graphics style.
 
 # Installation
 Install jenkins_api_client gem on your jenkins machine:
