@@ -6,6 +6,8 @@ Just use Dropbox or any other service(Apache) to expose output html file.
 
 It uses images from my server(http://merowing.info) for all status types, they will be skinned today to match StatusBoard graphics style.
 
+[Follow me on twitter][1]
+
 # Installation
 Install jenkins_api_client gem on your jenkins machine:
 	
@@ -28,3 +30,4 @@ https://wiki.jenkins-ci.org/display/JENKINS/Standard+Security+Setup
 
 http://www.cyberciti.biz/faq/how-do-i-add-jobs-to-cron-under-linux-or-unix-oses/
 
+  [1]: http://twitter.com/merowing_
