@@ -1,4 +1,5 @@
 #!/usr/bin/env ruby
+require 'rubygems'
 require 'jenkins_api_client'
 
 def job_order(client, job)
